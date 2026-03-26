@@ -1,0 +1,29 @@
+accent = "#c42b2b"
+
+active_border_color = "#c42b2b"
+active_tab_background = "#1a1618"
+cursor = "#e8e4e0"
+foreground = "#d4d0cc"
+background = "#0e0c0c"
+selection_foreground = "#0e0c0c"
+selection_background = "#c42b2b"
+
+# Normal colors (ANSI 0-7)
+color0 = "#0e0c0c"
+color1 = "#c42b2b"
+color2 = "#6b7266"
+color3 = "#8a7d6b"
+color4 = "#5a5858"
+color5 = "#913333"
+color6 = "#787575"
+color7 = "#b0aba6"
+
+# Bright colors (ANSI 8-15)
+color8 = "#4a4646"
+color9 = "#e04545"
+color10 = "#8a9183"
+color11 = "#a89880"
+color12 = "#7a7878"
+color13 = "#b84c4c"
+color14 = "#999696"
+color15 = "#e8e4e0"

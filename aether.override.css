@@ -1,0 +1,11 @@
+:root {
+    --bg: #0e0c0c;
+    --bg-dark: #080606;
+    --bg-highlight: #1a1618;
+    --fg: #d4d0cc;
+    --fg-dark: #b0aba6;
+    --accent: #c42b2b;
+    --accent-hover: #e04545;
+    --border: #4a4646;
+    --selection: rgba(196, 43, 43, 0.3);
+}

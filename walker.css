@@ -1,0 +1,42 @@
+#window {
+    background: rgba(14, 12, 12, 0.85);
+    color: #d4d0cc;
+}
+
+#box {
+    background: transparent;
+}
+
+#search {
+    background: #1a1618;
+    color: #d4d0cc;
+    border: 1px solid #4a4646;
+    border-radius: 8px;
+    padding: 8px 12px;
+}
+
+#search:focus {
+    border-color: #c42b2b;
+}
+
+#list row {
+    padding: 4px 8px;
+    border-radius: 6px;
+}
+
+#list row:selected {
+    background: rgba(196, 43, 43, 0.25);
+    color: #e8e4e0;
+}
+
+#list row:hover {
+    background: rgba(196, 43, 43, 0.12);
+}
+
+.activation_label {
+    color: #4a4646;
+}
+
+.activation_label:selected {
+    color: #c42b2b;
+}
